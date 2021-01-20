@@ -3,8 +3,14 @@ object_detection/weights/*
 action_detection/weights/*
 videos/*
 output_videos/*
+raw_videos/*
+input_videos/*
+clf_output/*
 
 # keep the folders
 !output_videos/.gitkeep
 !action_detection/weights/.gitkeep
 !object_detection/weights/.gitkeep
+!raw_videos/.keep
+!input_videos/.keep
+!clf_output/.keep
