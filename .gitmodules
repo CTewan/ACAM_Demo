@@ -3,4 +3,4 @@
 	url = https://github.com/tensorflow/models
 [submodule "object_detection/deep_sort"]
 	path = object_detection/deep_sort
-	url = https://github.com/oulutan/deep_sort
+	url = https://github.com/CTewan/deep_sort
